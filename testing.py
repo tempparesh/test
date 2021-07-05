@@ -10,3 +10,10 @@ def division(x, y):
 
 
 print(division(1, 2))
+
+
+def subtraction(x, y):
+    return x - y
+
+
+print(subtraction(1, 2))
