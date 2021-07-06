@@ -20,4 +20,5 @@ print(subtraction(1, 2))
 
 # do something
 def test(a, b):
+    '''Pretend comment '''
     return a, b
