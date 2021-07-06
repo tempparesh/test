@@ -23,5 +23,6 @@ def test(a, b):
     '''Pretend comment '''
     return a, b
 
+# hi there
 # added new comment
 # who's there
