@@ -20,4 +20,4 @@ print(subtraction(1, 2))
 
 
 def test(a, b):
-    return a,b
+    return a, b
