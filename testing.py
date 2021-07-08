@@ -18,9 +18,11 @@ def subtraction(x, y):
 
 print(subtraction(1, 2))
 
+
 # pretend
 def test(a, b):
-    '''Pretend comment '''
+    """Pretend comment """
+
     return a, b
 
 # hi there
